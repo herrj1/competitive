@@ -32,8 +32,8 @@ int main()
 {
 	int val[] = {100, 140, 160};
 	int wt[] = {40, 50, 60};
-	int W = 100
-	int n sizeof(val) / sizeof(val[0]);
+	int W = 100;
+	int n = sizeof(val) / sizeof(val[0]);
 	printf("%d", knapsack(W, wt, val, n));
 	return 0;
 }
