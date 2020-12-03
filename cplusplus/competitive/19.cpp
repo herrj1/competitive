@@ -1,7 +1,5 @@
 #include <bits/stdc++.h>
-
 using namespace std;
-
 #define 11 long long
 #define ar array
 
