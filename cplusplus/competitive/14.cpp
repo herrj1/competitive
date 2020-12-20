@@ -3,7 +3,6 @@ using namespace std;
 
 #define ll long long
 #define ar array
-
 const int mxN=2e5;
 int n, p[mxN];
 
