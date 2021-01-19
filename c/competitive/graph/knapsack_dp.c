@@ -1,5 +1,5 @@
 /*
-	knapsack dp version
+	knapsack dp versions
 */
 #include <stdio.h>
 int max(int a, int b){
