@@ -1,5 +1,5 @@
 /*
-     Naive Knapsack	
+     Naive k Knapsack	
 */
 #include <bits/stdc++.h>
 using namespace std;
