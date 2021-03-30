@@ -5,9 +5,8 @@ using namespace std;
 #define ar array
 
 const int mxN =2e5;
+
 int n,p[mxN];
-
-
 int main(){
     cin >> n;
 	vector<int> v;
