@@ -2,10 +2,14 @@
 using namespace std;
 
 #define ll long long
+
 #define ar array
+
 int n;
+
 int main(){
-    cin >> s;
+
+   cin >> s;
 	for(int i=0;i<n;++i)
 		cin << a[i][1]>>a[i][0];
 	
