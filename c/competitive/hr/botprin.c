@@ -1,6 +1,11 @@
 #include <stdio.h>
+
+
 #include <string.h>
+
+
 #include <math.h>
+
 void displayPathtoPrincess(int n, char grid[101][101]){
     // declare variables
     
