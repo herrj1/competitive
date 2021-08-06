@@ -1,5 +1,5 @@
 /*
-	knapsack dp version
+	knapsack (brute force) dp version
 
 */
 
