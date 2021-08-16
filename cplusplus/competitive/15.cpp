@@ -2,6 +2,7 @@
 using namespace std;
 
 #define ll long long
+
 #define ar array
 
 const int nax = 1e6 + 5;
